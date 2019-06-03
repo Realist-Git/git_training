@@ -1,0 +1,1 @@
+Another file on master branch that is called MasterSecond.
